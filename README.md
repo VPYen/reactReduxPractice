@@ -1,3 +1,7 @@
+This is a simple excercise to get acquianted with using Redux with React.
+This simulates a full-stack application by using jsonplaceholder api to serve data to the front-end.
+
+--------------
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
